@@ -1,0 +1,32 @@
+{
+  "songs": [
+    {
+      "name": "A01__SONG-01",
+      "album": "ALBUM_01"
+    },
+    {
+      "name": "A01__SONG-02",
+      "album": "ALBUM_01"
+    },
+    {
+      "name": "A01__SONG-03",
+      "album": "ALBUM_01"
+    },
+    {
+      "name": "A02__SONG-01",
+      "album": "ALBUM_02"
+    },
+    {
+      "name": "A02__SONG-02",
+      "album": "ALBUM_02"
+    },
+    {
+      "name": "A02__SONG-03",
+      "album": "ALBUM_02"
+    },
+    {
+      "name": "A02__SONG-04",
+      "album": "ALBUM_02"
+    }
+  ]
+}
